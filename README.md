@@ -34,6 +34,7 @@ Simple page and card component built with React and tailwindcss. Tailwindcss may
 - [React](https://reactjs.org/) - JS library
 - [tailwindcss](https://tailwindcss.com/) - For styles
 - [Netlify](https://www.netlify.com/) - Hosting live site
+- [YAML](https://yaml.org/) - GH workflow
 
 
 ## More by me
