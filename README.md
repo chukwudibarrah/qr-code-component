@@ -23,8 +23,8 @@ Simple page and card component built with React and tailwindcss. Tailwindcss may
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repo](https://github.com/chukwudibarrah/qr-code-component)
+- Live Site URL: [Netlify](https://react-qr-code-component.netlify.app/)
 
 ## My process
 
